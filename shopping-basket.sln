@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shopping-basket", "shopping-basket\shopping-basket.csproj", "{A7EE917C-D646-473F-8AA8-B1CC191E38FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasketService", "BasketService\BasketService.csproj", "{2E57C765-A139-4741-8187-83BD9274ABFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBasketTests", "ShoppingBasketTests\ShoppingBasketTests.csproj", "{6AA23105-D4D1-4A31-AA12-90524487E25A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EE917C-D646-473F-8AA8-B1CC191E38FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EE917C-D646-473F-8AA8-B1CC191E38FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EE917C-D646-473F-8AA8-B1CC191E38FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EE917C-D646-473F-8AA8-B1CC191E38FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E57C765-A139-4741-8187-83BD9274ABFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E57C765-A139-4741-8187-83BD9274ABFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E57C765-A139-4741-8187-83BD9274ABFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E57C765-A139-4741-8187-83BD9274ABFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFE220BE-E58E-4267-A6B8-B44473E47B16}
+	EndGlobalSection
+EndGlobal
